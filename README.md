@@ -12,7 +12,7 @@ Một số project tiêu biểu:
 
 ## 🎯 Mục tiêu
 -   Củng cố kiến thức Java cơ bản (biến, vòng lặp, mảng, lớp, đối
-    tượng).\
--   Làm quen với lập trình hướng đối tượng (OOP).\
--   Tập luyện kỹ năng viết mã sạch, dễ hiểu và dễ mở rộng.\
+    tượng).
+-   Làm quen với lập trình hướng đối tượng (OOP).
+-   Tập luyện kỹ năng viết mã sạch, dễ hiểu và dễ mở rộng.
 -   Chuẩn bị nền tảng để tiếp cận các project Java phức tạp hơn.
